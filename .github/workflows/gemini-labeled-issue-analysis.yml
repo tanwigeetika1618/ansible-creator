@@ -52,7 +52,7 @@ jobs:
       - name: Clone AI-Issue-Triage repository
         uses: actions/checkout@v4
         with:
-          repository: shvenkat-rh/AI-Issue-Triage
+          repository: tanwigeetika1618/AI-Issue-Triage
           ref: main
           path: ai-triage
           fetch-depth: 1
